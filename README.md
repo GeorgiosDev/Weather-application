@@ -9,6 +9,5 @@ There is also some informational templates about me and the project
 
 ![ScreenShot](/screenshot.png)
 
-https://deverakis-weather-app.herokuapp.com/
-
+https://deverakis-weather-application.herokuapp.com/
 
