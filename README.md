@@ -7,6 +7,7 @@ This is a Javascript project with nodejs as a runtime enviroment. I used handleb
 
 There is also some informational templates about me and the project
 
+![ScreenShot](/screenshots/screenshot.png)
 
 https://deverakis-weather-app.herokuapp.com/
 
